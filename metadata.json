@@ -1,0 +1,6 @@
+{
+  "name": "MYRA AI Assistant",
+  "description": "Next-generation futuristic personal AI companion showcase replicating the complete MYRA AI feature ecosystem with interactive cyber phone simulation, voice assistant orb, automation triggers, and full tool suite.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
